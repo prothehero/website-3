@@ -5,7 +5,7 @@ This is the repository for the main [Let's Encrypt website].
 
 This site is built with [Hugo]. It's entirely static, no server-side code/scripting.
 
-To see your changes, [install Hugo Extended], then run it with:
+To see your changes, [install Hugo Extended] and then run it with:
 
 ```sh
 hugo server -F
